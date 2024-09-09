@@ -1,0 +1,9 @@
+{
+  "name": "playtomax",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "game.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
